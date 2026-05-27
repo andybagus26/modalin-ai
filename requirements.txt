@@ -1,0 +1,9 @@
+tensorflow-cpu==2.15.0
+keras
+scikit-learn
+numpy
+pandas
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
